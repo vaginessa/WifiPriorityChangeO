@@ -15,14 +15,14 @@
             android:layout_height="wrap_content">
             <TextView
                 android:id="@+id/wifi_ssid"
-                android:text="测试SSID"
+                android:text="Test SSID"
                 android:textColor="@android:color/black"
                 android:textSize="25sp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" />
             <TextView
                 android:id="@+id/wifi_priority"
-                android:text="优先级：30"
+                android:text="Priority：30"
                 android:textSize="15sp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" />
